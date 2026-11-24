@@ -1,0 +1,1 @@
+Hermes exits 0 with a 205-byte timeout log and calls it a successful roast — the only agent that ships by dying.
